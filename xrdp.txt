@@ -3,7 +3,7 @@ Created Wed Mar  6 14:04:15 AKST 2019
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-xrdp
+xrdp: An open source remote desktop protocol(rdp) server
 Written by Jay Sorg	  
 Friday, 23 December 2016 00:00
 
