@@ -1,0 +1,43 @@
+xrdp.txt
+Created Wed Mar  6 14:04:15 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+xrdp
+
+Based on the work of FreeRDP[1] and rdesktop[2], xrdp uses the
+remote desktop protocol to present a GUI to the user.
+
+The goal of this project is to provide a fully functional
+Linux terminal server, capable of accepting connections
+from rdesktop, freerdp, and Microsoft's own terminal
+server / remote desktop clients.
+
+Unlike Windows NT/2000/2003/2008/2012 server, xrdp will 
+not display a Windows desktop but an X window desktop to
+the user.
+
+Xrdp uses Xvnc or X11rdp to manage the X session.  To learn
+about how xrdp currently works, click here[3] and here[4].
+
+For questions or comments please mail xrdp-devel@googlegroups.com
+
+This project is released under the GNU Public License (GPL) for
+versions 0.7.0 and older.
+
+All future versions will be released under the Apache 2.0 License.
+
+
+Links
+=====
+[1] FreeRDP
+http://www.freerdp.org/
+
+[2] rdesktop
+http://www.rdesktop.org/
+
+[3] here
+http://xrdp.sourceforge.net/documents/xrdpdesign/index.html
+
+[4] here
+http://xrdp.sourceforge.net/documents/asession/index.html
