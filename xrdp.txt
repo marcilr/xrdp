@@ -4,6 +4,8 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 xrdp
+Written by Jay Sorg	  
+Friday, 23 December 2016 00:00
 
 Based on the work of FreeRDP[1] and rdesktop[2], xrdp uses the
 remote desktop protocol to present a GUI to the user.
