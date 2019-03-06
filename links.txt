@@ -1,0 +1,12 @@
+links.txt
+Created Wed Mar  6 13:59:11 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+xrdp related links
+
+
+Links
+=====
+xrdp: An open source remote desktop protocol(rdp) server
+http://www.xrdp.org/
