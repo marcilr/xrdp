@@ -8,5 +8,9 @@ xrdp related links
 
 Links
 =====
+Tunneling RDP over SSH with xrdp and xfreerdp
+January 06, 2015
+https://blog.shichao.io/2015/01/06/tunneling_rdp_over_ssh_with_xrdp_and_xfreerdp.html
+
 xrdp: An open source remote desktop protocol(rdp) server
 http://www.xrdp.org/
