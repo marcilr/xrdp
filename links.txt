@@ -8,6 +8,14 @@ xrdp related links
 
 Links
 =====
+Displaying remote clients
+Cygwin/X User's Guide
+Prev	Chapter 3. Using Cygwin/X
+Notes on:
+  $ export DISPLAY=:0.0
+  $ ssh -Y username@remote_hostname_or_ip_address
+https://x.cygwin.com/docs/ug/using-remote-apps.html
+
 Install XRDP on Ubuntu Server with XFCE Template
 https://www.interserver.net/tips/kb/install-xrdp-ubuntu-server-xfce-template/
 
